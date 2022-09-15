@@ -55,17 +55,17 @@ h2 {
 
 .box label:nth-child(1) i {
   background-image: url('./asets/01.jpg');
-  animation: animate 0.5s steps(6) infinite;
+  animation: animate 0.8s steps(6) infinite;
 }
 
 .box label:nth-child(2) i {
   background-image: url('./asets/02.jpg');
-  animation: animate2 0.4s steps(6) infinite;
+  animation: animate2 0.7s steps(6) infinite;
 }
 
 .box label:nth-child(3) i {
   background-image: url('./asets/03.jpg');
-  animation: animate 0.7s steps(6) infinite;
+  animation: animate 0.9s steps(6) infinite;
 }
 
 @keyframes animate {
